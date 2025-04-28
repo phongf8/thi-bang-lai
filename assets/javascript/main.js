@@ -322,53 +322,77 @@ const questionList = [
         suggest:"Giải thích: Lắp đặt còi đèn không đúng thiết kế phải được chấp thuận của cơ quan có thẩm quyền."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 35: ",
+        question: "Việc sản xuất, mua bán, sử dụng biển số xe cơ giới, xe máy chuyên dùng được quy định như thế nào trong Luật Giao thông đường bộ?",
+        answer: ["Được phép sản xuất, sử dụng khi bị mất biển số.",
+            "Được phép mua bán, sử dụng khi bị mất biển số.",
+            "Nghiêm cấm sản xuất, mua bán, sử dụng trái phép."
+        ],
+        correct: 3,
+        suggest:"Giải thích: Nghiêm cấm sản xuất, mua bán, sử dụng trái phép."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 36:",
+        question: " Người lái xe không được vượt xe khác khi gặp trường hợp nào ghi ở dưới đây?",
+        answer: ["Trên cầu hẹp có một làn xe. Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ.",
+            "Trên cầu có từ 02 làn xe trở lên; nơi đường bộ giao nhau không cùng mức với đường sắt; xe được quyền ưu tiên đang đi phía trước nhưng không phát tín hiệu ưu tiên.",
+            "Trên đường có 2 làn đường được phân chia làn bằng vạch kẻ nét đứt."
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: Không được vượt trên cầu hẹp có một làn xe."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 37: ",
+        question: "Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, đường cao tốc, đường hẹp, đường dốc, tại nơi đường bộ giao nhau cùng mức với đường sắt có được quay đầu xe hay không?",
+        answer: ["Được phép.",
+            "Không được phép.",
+            "Tùy từng trường hợp."
+        ],
+        correct: 2,
+        suggest:"Giải thích: Không được phép quay đầu xe ở phần đường dành cho người đi bộ qua đường."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 38:",
+        question: " Bạn đang lái xe, phía trước có một xe cảnh sát giao thông không phát tín hiệu ưu tiên bạn có được phép vượt hay không?",
+        answer: ["Không được vượt.",
+            "Được vượt khi đang đi trên cầu.",
+            "Được phép vượt khi đi qua nơi giao nhau có ít phương tiện cùng tham gia giao thông.",
+            "Được vượt khi đảm bảo an toàn."
+        ],
+        correct: 4,
+        suggest:"Giải thích: Được vượt khi xe không phát tín hiệu ưu tiên."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 39:",
+        question: " Bạn đang lái xe, phía trước có một xe cứu thương đang phát tín hiệu ưu tiên bạn có được phép vượt hay không?",
+        answer: ["Không được vượt",
+            "Được vuợt khi đang đi trên cầu",
+            "Được phép vượt khi đi qua nơi giao nhau có ít phương tiện cùng tham gia giao thông.",
+            "Được Vượt khi đảm bảo an toàn"
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: Không được vượt khi đang phát tín hiệu ưu tiên."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 40: ",
+        question: "Người lái xe không được quay đầu xe trong các trường hợp nào dưới đây?",
+        answer: ["Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, đường cao tốc, đường hẹp, đường dốc, tại nơi đường bộ giao nhau cùng mức với đường sắt",
+            "Ở phía trước hoặc phía sau của phần đường dành cho người đi bộ qua đường, trên đường quốc lộ, tại nơi đường bộ giao nhau không cùng mức với đường sắt.",
+            "cả ý 1 và ý 2"
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: Không được phép quay đầu xe ở phần đường dành cho người đi bộ qua đường."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 41: ",
+        question: "Bạn đang lái xe trong khu dân cư, có đông xe qua lại, nếu muốn quay đầu bạn cần làm gì để tránh ùn tắc và đảm bảo an toàn giao thông?",
+        answer: ["Đi tiếp đến điểm giao cắt gần nhất hoặc nơi có biển báo cho phép quay đầu xe.",
+            "Bấm đèn khẩn cấp và quay đầu xe từ từ bảo đảm an toàn.",
+            "Bấm còi liên tục khi quay đầu để cảnh báo các xe khác.",
+            "Nhờ một người ra hiệu giao thông trên đường chậm lại trước khi quay đầu."
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: Chỉ quay đầu xe ở điểm giao cắt hoặc nơi có biển báo cho phép quay đầu."
     },
     {
         questionQty: "",
@@ -982,30 +1006,20 @@ answerBtn.forEach((btn) => {
         const ansTotal = document.querySelector(".ans__total");
         
         if (selected === correct) {
-            score++;
-            // ansTotal.textContent = score++;
-            feedbackEl.textContent = "✅ Chính xác!";
+            score++ ;
+            ansTotal.textContent = `Điểm Của Bạn Là: ${score}`;
+            feedbackEl.textContent = "✅ Chính xác!" ;
             e.target.style.backgroundColor = "lightgreen";
 
         } else {
             score--;
-            // ansTotal.textContent = score--;
+            ansTotal.textContent =`Điểm Của Bạn Là: ${score} ` ;
 
-            feedbackEl.textContent = `❌ Sai rồi!.Điểm của bạn: ${score} / ${questionList.length}`;
+            feedbackEl.textContent = `❌ Sai rồi!`;
             e.target.style.backgroundColor = "tomato";
            
         }
-        nextBtn.addEventListener("click", function () {
-            if (selected === correct) {
-            score++;
-            
-
-        } else {
-            score--;
-            
-           
-        }
-        })
+        
 
         // Disable all buttons
         // answerBtn.forEach(b => b.disabled = true)
