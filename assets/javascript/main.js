@@ -395,123 +395,185 @@ const questionList = [
         suggest:"Giải thích: Chỉ quay đầu xe ở điểm giao cắt hoặc nơi có biển báo cho phép quay đầu."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 42:",
+        question: " Người lái xe không được lùi xe ở những khu vực nào dưới đây?",
+        answer: ["Ở khu vực cho phép đỗ xe.",
+            "Ở khu vực cấm dừng và trên phần đường dành cho người đi bộ qua đường.",
+            "Nơi đường bộ giao nhau, đường bộ giao nhau cùng mức với đường sắt, nơi tầm nhìn bị che khuất, trong hầm đường bộ, đường cao tốc.",
+            "Cả ý 2 và ý 3."
+        ],
+        correct: 4,
+        suggest:"Giải thích: Cấm lùi xe ở khu vực cấm dừng và nơi đường bộ giao nhau."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 43: ",
+        question: "Người điều khiển phương tiện giao thông trên đường phố có được dừng xe, đỗ xe trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước hay không?",
+        answer: ["Được dừng xe, đỗ xe trong trường hợp cần thiết.",
+            "Không được dừng xe, đỗ xe.",
+            "Được dừng xe, không được đỗ xe."
+        ],
+        correct: 2,
+        suggest:"Giải thích: Không được dừng, đỗ xe trên miệng cống thoát nước."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 44:",
+        question: " Khi xe đã kéo 1 xe hoặc xe đã kéo 1 rơ moóc, bạn có được phép kéo thêm xe (kể cả xe thô sơ) hoặc rơ moóc thứ hai hay không?",
+        answer: ["Chỉ được thực hiện trên đường quốc lộ có hai làn xe một chiều.",
+            "Chỉ được thực hiện trên đường cao tốc.",
+            "Không được thực hiện vào ban ngày.",
+            "Không Được Phép"
+        ],
+        correct: 4,
+        suggest:"Giải thích: Xe kéo đã kéo rơ moóc không được kéo thêm xe."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 45: ",
+        question: "Người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?",
+        answer: ["Được phép.",
+            "Nếu phương tiện được kéo, đẩy có khối lượng nhỏ hơn phương tiện của mình.",
+            "Tùy trường hợp.",
+            "Không được phép"
+        ],
+        correct: 4,
+        suggest:"Giải thích: Xe mô tô không được kéo xe khác."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 46",
+        question: "Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe quệt xuống đường khi xe đang chạy có được phép hay không?",
+        answer: ["Được phép.",
+            "Tùy Trường Hợp",
+            "Không Được Phép"
+        ],
+        correct: 3,
+        suggest:"Giải thích: Không được phép."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 47:",
+        question: " Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào không được phép?",
+        answer: ["Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe để quệt xuống đường khi xe đang chạy.",
+            "Buông một tay; sử dụng xe để chở người hoặc hàng hóa; để chân chạm xuống đất khi khởi hành.",
+            "Đội mũ bảo hiểm; chạy xe đúng tốc độ quy định và chấp hành đúng quy tắc giao thông đường bộ.",
+            "Chở người ngồi sau dưới 16 tuổi."
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe để quệt xuống đường khi xe đang chạy."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 48:",
+        question: " Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông có được mang, vác vật cồng kềnh hay không?",
+        answer: ["Được mang, vác tùy trường hợp cụ thể.",
+            "Không được mang, vác.",
+            "Được mang, vác nhưng phải đảm bảo an toàn.",
+            "Được mang, vác tùy theo sức khoẻ của bản thân."
+        ],
+        correct: 2,
+        suggest:"Giải thích: Xe mô tô không được mang vác vật cồng kềnh."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 49: ",
+        question: "Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được bám, kéo hoặc đẩy các phương tiện khác không?",
+        answer: ["Được phép.",
+            "Được bám trong trường hợp phương tiện của mình bị hỏng.",
+            "Được kéo, đẩy trong trường hợp phương tiện khác bị hỏng.",
+            "Không được phép."
+        ],
+        correct: 4,
+        suggest:"Giải thích: Xe mô tô không được kéo xe khác."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 50: ",
+        question: "Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được sử dụng ô khi trời mưa hay không?",
+        answer: ["Được sử dụng",
+            "Chỉ người ngồi sau được sử dụng.",
+            "Không được sử dụng.",
+            "Được sử dụng nếu không có áo mưa"
+        ],
+        correct: 3,
+        suggest:"Giải thích: Khi tham gia giao thông, người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được sử dụng ô vì dễ gây mất cân bằng và nguy hiểm cho người điều khiển và các phương tiện khác."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 51:",
+        question: " Khi đang lên dốc người ngồi trên xe mô tô có được kéo theo người đang điều khiển xe đạp hay không?",
+        answer: ["Chỉ được phép nếu cả hai đội mũ bảo hiểm.",
+            "Không được phép.",
+            "Chỉ được thực hiện trên đường thật vắng.",
+            "Chỉ được phép khi người đi xe đạp đã quá mệt."
+        ],
+        correct: 2,
+        suggest:"Giải thích: Xe mô tô không được kéo xe khác."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 52: ",
+        question: "Hành vi sử dụng xe mô tô để kéo, đẩy xe mô tô khác bị hết xăng đến trạm mua xăng có được phép hay không?",
+        answer: ["Chỉ được kéo nếu đã nhìn thấy trạm xăng.",
+            "Chỉ được thực hiện trên đường vắng phương tiện cùng tham gia giao thông.",
+            "Không được phép.",
+        ],
+        correct: 3,
+        suggest:"Giải thích: Xe mô tô không được kéo xe khác."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 53:",
+        question: " Hành vi vận chuyển đồ vật cồng kềnh bằng xe mô tô, xe gắn máy khi tham gia giao thông có được phép hay không?",
+        answer: ["Không được vận chuyển.",
+            "Chỉ được vận chuyển khi đã chằng buộc cẩn thận.",
+            "Chỉ được vận chuyển vật cồng kềnh trên xe máy nếu khoảng cách về nhà ngắn hơn 2 km."
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: Xe mô tô không được mang vác vật cồng kềnh."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 54: ",
+        question: "Người đủ bao nhiêu tuổi trở lên thì được điều khiển xe ô tô tải, máy kéo có trọng tải từ 3.500 kg trở lên; xe hạng B2 kéo rơ moóc (FB2)?",
+        answer: ["19 tuổi.",
+            "21 tuổi.",
+            "24 tuổi.",
+        ],
+        correct: 2,
+        suggest:"Giải thích: Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi): 16: Xe dưới 50cm3; 18: Hạng A, B1, B2; 21: Hạng C, FB; 24: Hạng D, FC; 27: Hạng E, FD."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 55:",
+        question: " Người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg; xe ô tô chở người đến 9 chỗ ngồi?",
+        answer: ["16 tuổi.",
+            "18 tuổi.",
+            "17 tuổi."
+        ],
+        correct: 2,
+        suggest:"Giải thích: Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi): 16: Xe dưới 50cm3; 18: Hạng A, B1, B2; 21: Hạng C, FB; 24: Hạng D, FC; 27: Hạng E, FD."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 56:",
+        question: " Người lái xe ô tô chở người trên 30 chỗ ngồi (hạng E), lái xe hạng D kéo rơ moóc (FD) phải đủ bao nhiêu tuổi trở lên?",
+        answer: ["23 tuổi.",
+            "24 tuổi.",
+            "27 tuổi.",
+            "30 tuổi."
+        ],
+        correct: 3,
+        suggest:" Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi): 16: Xe dưới 50cm3; 18: Hạng A, B1, B2; 21: Hạng C, FB; 24: Hạng D, FC; 27: Hạng E, FD."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 57:",
+        question: " Tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi (hạng E) là bao nhiêu tuổi?",
+        answer: ["55 tuổi đối với nam và 50 tuổi đối với nữ.",
+            "55 tuổi đối với nam và nữ.",
+            "60 tuổi đối với nam và 55 tuổi đối với nữ.",
+            "45 tuổi đối với nam và 40 tuổi đối với nữ."
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: Độ tuổi tối đa người lái xe ô tô hạng E: Nam 55 tuổi và nữ 50 tuổi."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 58:",
+        question: " Người lái xe chở người từ 10 đến 30 chỗ ngồi (hạng D), lái xe hạng C kéo rơ moóc (FC) phải đủ bao nhiêu tuổi trở lên?",
+        answer: ["23 tuổi.",
+            "24 tuổi.",
+            "22 tuổi.",
+            "19 tuổi."
+        ],
+        correct: 2,
+        suggest:"Giải thích: Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi): 16: Xe dưới 50cm3; 18: Hạng A, B1, B2; 21: Hạng C, FB; 24: Hạng D, FC; 27: Hạng E, FD."
     },
     {
         questionQty: "",
