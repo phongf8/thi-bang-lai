@@ -312,11 +312,14 @@ const questionList = [
         suggest:"Giải thích: Không được phép lắp đặt còi đèn không đúng thiết kế."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 34:",
+        question: " Trong trường hợp đặc biệt, để được lắp đặt, sử dụng còi, đèn không đúng với thiết kế của nhà sản xuất đối với từng loại xe cơ giới bạn phải đảm bảo yêu cầu nào dưới đây?",
+        answer: ["Phải đảm bảo phụ tùng do đúng nhà sản xuất đó cung cấp.",
+            "Phải được chấp thuận của cơ quan có thẩm quyền.",
+            "Phải là xe đăng ký và hoạt động tại các khu vực có địa hình phức tạp."
+        ],
+        correct: 2,
+        suggest:"Giải thích: Lắp đặt còi đèn không đúng thiết kế phải được chấp thuận của cơ quan có thẩm quyền."
     },
     {
         questionQty: "",
@@ -967,6 +970,7 @@ function loadQuestion() {
             btn.textContent = " dang cap nhat"
         }
     })
+    
 }
 const nextBtn = document.querySelector(".next");
 const prevBtn = document.querySelector(".prev");
@@ -982,13 +986,12 @@ answerBtn.forEach((btn) => {
             // ansTotal.textContent = score++;
             feedbackEl.textContent = "✅ Chính xác!";
             e.target.style.backgroundColor = "lightgreen";
-            
 
         } else {
             score--;
             // ansTotal.textContent = score--;
 
-            feedbackEl.textContent = "❌ Sai rồi!";
+            feedbackEl.textContent = `❌ Sai rồi!.Điểm của bạn: ${score} / ${questionList.length}`;
             e.target.style.backgroundColor = "tomato";
            
         }
