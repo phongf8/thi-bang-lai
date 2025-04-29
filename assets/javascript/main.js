@@ -1147,5 +1147,15 @@ nextBtn.addEventListener("click", () => {
 
 
 loadQuestion();
+// chon cau hoi
+const quesBtnList = document.querySelectorAll(".ques__qty--btn");
+for (let i = 0; i < quesBtnList.length; i++) {
+    currentQuestion = 0;
+     
+    quesBtnList[i].addEventListener("click", function () {
+       currentQuestion += i;
+        loadQuestion()
+    currentQuestion = 0;
 
-//  menu
+    })
+}

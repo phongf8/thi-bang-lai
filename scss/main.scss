@@ -50,3 +50,20 @@
 .feedback {
     margin-top: 15px;
 }
+.ques__qty {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100px;
+    overflow-y: scroll;
+    &--btn {
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        cursor: pointer;
+        border: 1px solid #34a853;
+        background-color: #fff;
+        color: #000;
+    }
+}
