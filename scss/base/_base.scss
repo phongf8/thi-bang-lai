@@ -42,17 +42,11 @@ a {
         font-size: 24px;
     }
 }
-.desc {
-    font-size: 20px;
-    line-height: 1.5;
-    @include abstracts.breakpoint(lg) {
-            font-size: 16px;
-        }
-}
 .luu-y {
     font-size: 20px;
     line-height: 1.5;
     color: #345da8;
+    text-align: center;
 }
 .btn {
     padding: 8px 16px;

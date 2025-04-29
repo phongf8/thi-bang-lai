@@ -576,88 +576,126 @@ const questionList = [
         suggest:"Giải thích: Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi): 16: Xe dưới 50cm3; 18: Hạng A, B1, B2; 21: Hạng C, FB; 24: Hạng D, FC; 27: Hạng E, FD."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 59: ",
+        question: "Người đủ 16 tuổi được điều khiển các loại xe nào dưới đây?",
+        answer: ["Xe mô tô 2 bánh có dung tích xi-lanh từ 50 cm3 trở lên",
+            "Xe gắn máy có dung tích xi-lanh dưới 50 cm3.",
+            "Xe ô tô tải dưới 3.500 kg; xe chở người đến 9 chỗ ngồi.",
+            "Tất cả các ý nêu trên."
+        ],
+        correct: 2,
+        suggest:"Giải thích: Độ tuổi lấy bằng theo hạng (cách nhau 3 tuổi): 16: Xe dưới 50cm3; 18: Hạng A, B1, B2; 21: Hạng C, FB; 24: Hạng D, FC; 27: Hạng E, FD."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 60: ",
+        question: "Người có Giấy phép lái xe mô tô hạng A1 không được phép điều khiển loại xe nào dưới đây?",
+        answer: ["Xe mô tô có dung tích xi-lanh 125 cm3.",
+            "Xe mô tô có dung tích xi-lanh từ 175 cm3 trở lên.",
+            "Xe mô tô có dung tích xi-lanh 100 cm3."
+        ],
+        correct: 2,
+        suggest:"Giải thích: A1 mô tô dưới 175 cm3 và xe 3 bánh của người khuyết tật; A2 mô tô 175 cm3 trở lên; A3 xe 3 bánh"
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 61:",
+        question: " Người có Giấy phép lái xe mô tô hạng A1 được phép điều khiển loại xe nào dưới đây?",
+        answer: ["Xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3.",
+            "Xe mô tô ba bánh dùng cho người khuyết tật.",
+            "Cả ý 1 và ý 2"
+        ],
+        correct: 3,
+        suggest:"Giải thích: A1 mô tô dưới 175 cm3 và xe 3 bánh của người khuyết tật; A2 mô tô 175 cm3 trở lên; A3 xe 3 bánh."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 62:",
+        question: " Người có Giấy phép lái xe mô tô hạng A2 được phép điều khiển loại xe nào dưới đây?",
+        answer: ["Xe mô tô ba bánh.",
+            "Xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên và các loại xe quy định cho Giấy phép lái xe hạng A1.",
+            "Các loại máy kéo nhỏ có trọng tải đến 1.000 kg."
+        ],
+        correct: 2,
+        suggest:"Giải thích: A1 mô tô dưới 175 cm3 và xe 3 bánh của người khuyết tật; A2 mô tô 175 cm3 trở lên; A3 xe 3 bánh."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 63:",
+        question: " Người có Giấy phép lái xe mô tô hạng A3 được phép điều khiển loại xe nào dưới đây?",
+        answer: ["Xe mô tô ba bánh.",
+            "Xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên.",
+            "Các loại máy kéo nhỏ có trọng tải đến 1.000 kg."
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: A1 mô tô dưới 175 cm3 và xe 3 bánh của người khuyết tật; A2 mô tô 175 cm3 trở lên; A3 xe 3 bánh."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 64: ",
+        question: "Người có Giấy phép lái xe hạng B1 số tự động được điều khiển loại xe nào?",
+        answer: ["Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới 3.500 kg; ô tô dùng cho người khuyết tật. Không được hành nghề lái xe.",
+            "Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới 3.500 kg; ô tô dùng cho người khuyết tật. Được hành nghề lái xe kinh doanh vận tải.",
+            "Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; ô tô dùng cho người khuyết tật."
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: B1, B2 đến 9 chỗ ngồi, xe tải dưới 3.500 kg; B1 không hành nghề lái xe."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 65:",
+        question: " Người có Giấy phép lái xe hạng B1 được điều khiển loại xe nào?",
+        answer: ["Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg. Được hành nghề lái xe",
+            "Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg. Không được hành nghề lái xe.",
+            "Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới 3.500 kg; ô tô dùng cho người khuyết tật."
+        ],
+        correct: 2,
+        suggest:"Giải thích: B1, B2 đến 9 chỗ ngồi, xe tải dưới 3.500 kg; B1 không hành nghề lái xe."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 66:",
+        question: " Người có Giấy phép lái xe hạng B2 được điều khiển loại xe nào dưới đây?",
+        answer: ["Xe ô tô chở người trên 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3.500 kg.",
+            "Xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3.500 kg.",
+            "Xe ô tô chở người từ 10 đến 30 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3.500 kg."
+        ],
+        correct: 2,
+        suggest:"Giải thích: B2 đến 9 chỗ ngồi, xe tải dưới 3.500 kg."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 67: ",
+        question: "Người có Giấy phép lái xe hạng C được điều khiển loại xe nào dưới đây?",
+        answer: ["Xe ô tô chở người trên 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3.500 kg",
+            "Xe ô tô chở người từ 10 đến 30 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3.500 kg.",
+            "Xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3.500 kg."
+        ],
+        correct: 3,
+        suggest:"Giải thích: C đến 9 chỗ ngồi, xe trên 3.500 kg."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
+        questionQty: "Câu 68: ",
+        question: "Người có Giấy phép lái xe hạng D được điều khiển loại xe nào dưới đây?",
+        answer: ["Ô tô chở người đến 30 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; xe ô tô tải, máy kéo có trọng tải trên 3.500 kg.",
+            "Xe ô tô chở người trên 30 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3.500 kg.",
+            "Xe kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho Giấy phép lái xe hạng B1, B2, C và FB2."
+        ],
         correct: 1,
-        suggest:""
+        suggest:"Giải thích: D chở đến 30 người."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 69:",
+        question: " Người có Giấy phép lái xe hạng E được điều khiển loại xe nào dưới đây?",
+        answer: ["Xe kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho Giấy phép lái xe hạng B1, B2, C và FB2.",
+            "Ô tô chở người trên 30 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3.500 kg.",
+            "Xe kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho Giấy phép lái xe hạng B1, B2, C, D, FB2, FD."
+        ],
+        correct: 2,
+        suggest:"Giải thích: E chở trên 30 người."
     },
     {
-        questionQty: "",
-        question: "",
-        answer: [],
-        correct: 1,
-        suggest:""
+        questionQty: "Câu 70: ",
+        question: "Người có Giấy phép lái xe hạng FC được điều khiển loại xe nào dưới đây?",
+        answer: ["Các loại xe được quy định tại Giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc, ô tô chở khách nối toa và được điều khiển các loại xe quy định cho Giấy phép lái xe hạng B1, B2 và FB2.",
+            "Các loại xe được quy định tại Giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho Giấy phép lái xe hạng B1, B2, C và FB2.",
+            "Mô tô hai bánh, các loại xe được quy định tại Giấy phép lái xe hạng C có kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho Giấy phép lái xe hạng B1, B2, C và FB2.",
+            "Tất cả các loại xe nêu trên."
+        ],
+        correct: 2,
+        suggest:"Giải thích: FC: C + kéo (ô tô đầu kéo, kéo sơ mi rơ moóc); FE: E + kéo (ô tô chở khách nối toa)."
     },
     {
         questionQty: "",
@@ -1106,6 +1144,7 @@ nextBtn.addEventListener("click", () => {
     prevBtn.style.display = "none";
   }
 });
+
 
 loadQuestion();
 
