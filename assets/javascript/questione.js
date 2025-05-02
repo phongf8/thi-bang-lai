@@ -1134,7 +1134,7 @@ const originalQuestions =
             "Biển báo hiệu cố định.",
             "Báo hiệu tạm thời.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1147,7 +1147,7 @@ const originalQuestions =
             "Phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; khi chuyển làn phải có tín hiệu báo trước và phải bảo đảm an toàn.",
             "Phải cho xe đi trong một làn đường, khi cần thiết phải chuyển làn đường, người lái xe phải quan sát xe phía trước để bảo đảm an toàn.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1160,7 +1160,7 @@ const originalQuestions =
             "Xe thô sơ phải đi trên làn đường bên phải trong cùng; xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.",
             "Xe thô sơ đi trên làn đường phù hợp không gây cản trở giao thông, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên phải.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1174,7 +1174,7 @@ const originalQuestions =
             "Phải báo hiệu bằng cả còi và đèn.",
             "Chỉ được báo hiệu bằng đèn.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -1187,7 +1187,7 @@ const originalQuestions =
             "Người điều khiển phương tiện phía trước phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại cho xe sau vượt.",
             "Cho xe tránh về bên trái mình và ra hiệu cho xe sau vượt; nếu có chướng ngại vật phía trước hoặc thiếu điều kiện an toàn chưa cho vượt được phải ra hiệu cho xe sau biết; cấm gây trở ngại cho xe xin vượt.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1200,7 +1200,7 @@ const originalQuestions =
             "Ở nơi có đường rộng để cho các loại xe chạy một chiều.",
             "Ở bất kỳ nơi nào.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1213,7 +1213,7 @@ const originalQuestions =
             "Lợi dụng chỗ rộng và phải có người làm tín hiệu sau xe để bảo đảm an toàn.",
             "Lợi dụng chỗ rộng có thể quay đầu được để quay đầu xe cho an toàn.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1226,7 +1226,7 @@ const originalQuestions =
             "Quan sát gương, giảm tốc độ, ra tín hiệu chuyển hướng, quan sát an toàn và chuyển hướng.",
             "Quan sát gương, tăng tốc độ, ra tín hiệu và chuyển hướng.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1239,7 +1239,7 @@ const originalQuestions =
             "Lợi dụng nơi đường giao nhau đủ chiều rộng để lùi.",
             "Phải quan sát phía sau, có tín hiệu cần thiết và chỉ nào thấy không nguy hiểm mới được lùi.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1253,7 +1253,7 @@ const originalQuestions =
             "Đang chuẩn bị lùi hoặc đang lùi.",
             "Đang bị hỏng động cơ.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1267,7 +1267,7 @@ const originalQuestions =
             "Xe lên dốc phải nhường đường cho xe xuống dốc; xe nào không có chướng ngại vật phía trước phải nhường đường cho xe có chướng ngại vật đi trước",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -1280,7 +1280,7 @@ const originalQuestions =
             "Nhường đường cho xe lên dốc.",
             "Chỉ nhường đường khi xe lên dốc nháy đèn.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1293,7 +1293,7 @@ const originalQuestions =
             "Nhường đường cho xe đi ở bên trái mình tới.",
             "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1306,7 +1306,7 @@ const originalQuestions =
             "Xe báo hiệu xin đường trước xe đó được đi trước.",
             "Phải nhường đường cho xe đi đến từ bên trái.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1319,7 +1319,7 @@ const originalQuestions =
             "Phương tiện nào ra tín hiệu xin đường trước.",
             "Phương tiện giao thông đường sắt.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1332,7 +1332,7 @@ const originalQuestions =
             "3 mét.",
             "4 mét.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1344,7 +1344,7 @@ const originalQuestions =
             "Phải có tín hiệu xin vào và phải nhường đường cho xe đang chạy trên đường; khi thấy an toàn mới cho xe nhập vào dòng xe ở làn đường sát mép ngoài; nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi vào làn đường của đường cao tốc.",
             "Phải có tín hiệu xin vào và phải nhanh chóng vượt xe đang chạy trên đường để nhập vào dòng xe ở làn đường sát mép ngoài; nếu có làn đường tăng tốc thì phải cho xe chạy qua làn đường đó để vào làn đường của đường cao tốc.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1357,7 +1357,7 @@ const originalQuestions =
             "Chỉ được dừng xe, đỗ xe ở nơi quy định, trường hợp buộc phải dừng xe, đỗ xe không đúng nơi quy định thì người lái xe phải đưa xe ra khỏi phần đường xe chạy, nếu không thể được thì phải báo hiệu để người lái xe khác biết.",
             "Chỉ được dừng xe, đỗ xe ở nơi đường rộng; trường hợp dừng xe, đỗ xe tại nơi đường hẹp phải đặt các chướng ngại vật trên đường để yêu cầu người lái xe khác giảm tốc độ để bảo đảm an toàn.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1370,7 +1370,7 @@ const originalQuestions =
             "Xe mô tô và xe máy chuyên dùng có tốc độ thiết kế lớn hơn 70km/h.",
             "Người đi bộ, xe thô sơ, xe gắn máy và xe ô tô.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1383,7 +1383,7 @@ const originalQuestions =
             "Xe cơ giới phải bật đèn ngay cả khi đường hầm sáng; phải cho xe chạy trên một làn đường và chỉ chuyển làn ở nơi được phép; được quay đầu xe, lùi xe khi cần thiết.",
             "Xe máy chuyên dùng phải bật đèn ngay cả khi đường hầm sáng; phải cho xe chạy trên một làn đường và chỉ chuyển làn ở nơi được phép; được quay đầu xe, lùi xe khi cần thiết.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1397,7 +1397,7 @@ const originalQuestions =
             "Được tham gia giao thông trên đường rộng.",
             "Chỉ được tham gia giao thông vào ban đêm.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1410,7 +1410,7 @@ const originalQuestions =
             "Dùng dây cáp có độ dài 5 mét.",
             "Dùng thanh nối cứng.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1423,7 +1423,7 @@ const originalQuestions =
             "Phải có tổng trọng lượng tương đương tổng trọng lượng của rơ moóc hoặc phải có hệ thống hãm có hiệu lực cho xe kéo rơ moóc.",
             "Phải được lắp phanh phụ theo quy định để đảm bảo an toàn.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1436,7 +1436,7 @@ const originalQuestions =
             "Được kéo theo một xe ô tô và xe máy chuyên dùng khác khi xe này không tự chạy được và phải đảm bảo an toàn; xe được kéo phải có người ngồi trên xe để kịp thời phát hiện các trường hợp mất an toàn.",
             "Được kéo theo một xe ô tô và xe máy chuyên dùng khác khi xe này không tự chạy được và hệ thống phanh bị hỏng, xe kéo nhau phải nối bằng dây cáp có độ dài phù hợp.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1449,7 +1449,7 @@ const originalQuestions =
             "Chỉ khi đi trên đường chuyên dùng; đường cao tốc.",
             "Khi tham gia giao thông trên đường tỉnh lộ hoặc quốc lộ.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1462,7 +1462,7 @@ const originalQuestions =
             "Áp giải người có hành vi vi phạm pháp luật.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1475,7 +1475,7 @@ const originalQuestions =
             "Chở 02 người; trong đó, có người bệnh đi cấp cứu hoặc trẻ em dưới 14 tuổi hoặc áp giải người có hành vi vi phạm pháp luật.",
             "Điều khiển phương tiện tham gia giao thông trên đường tỉnh lộ hoặc quốc lộ.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1488,7 +1488,7 @@ const originalQuestions =
             "Không được phép.",
             "Được phép tùy từng hoàn cảnh, điều kiện cụ thể.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1502,7 +1502,7 @@ const originalQuestions =
             "Khi điều khiển xe vượt xe khác trên đường quốc lộ, đường cao tốc.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -1515,7 +1515,7 @@ const originalQuestions =
             "Không được cắt ngang qua đoàn người, đoàn xe.",
             "Báo hiệu từ từ cho xe đi cắt qua để bảo đảm an toàn.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1528,7 +1528,7 @@ const originalQuestions =
             "Nhường đường cho người đi bộ đang đứng chờ đi qua phần đường dành cho người đi bộ sang đường; nhường đường cho xe đi trên đường ngược chiều, đường nhánh từ bất kỳ hướng nào tới; nhường đường cho xe đi từ bên trái đến.",
             "Không phải nhường đường.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1541,7 +1541,7 @@ const originalQuestions =
             "Trước khi thay đổi làn đường.",
             "Sau khi thay đổi làn đường.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1555,7 +1555,7 @@ const originalQuestions =
             "Phát hiện có xe đi ngược chiều.",
             "Cả ý 1 và ý 3.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -1568,7 +1568,7 @@ const originalQuestions =
             "Quan sát và dừng xe tại nơi quy định; nghỉ cho đến khi hết buồn ngủ và đi tiếp.",
             "Sử dụng một ít rượu hoặc bia để hết buồn ngủ và đi tiếp.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1581,7 +1581,7 @@ const originalQuestions =
             "Lùi xe sát lề đường bên phải và rẽ khỏi đường cao tốc.",
             "Tiếp tục chạy đến lối ra tiếp theo.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1594,7 +1594,7 @@ const originalQuestions =
             "Lái xe vào lề đường bên trái và giảm tốc độ để xe phía sau vượt qua, không được gây trở ngại đối với xe xin vượt.",
             "Nếu đủ điều kiện an toàn, người lái xe phải tăng tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1607,7 +1607,7 @@ const originalQuestions =
             "Nhanh chóng đặt biển cảnh báo nguy hiểm tại vị trí xe ô tô bị hỏng để đoàn tàu dừng lại.",
             "Liên hệ ngay với đơn vị cứu hộ để đưa ô tô hỏng ra khỏi phạm vi an toàn đường sắt.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1620,7 +1620,7 @@ const originalQuestions =
             "Phải đội mũ bảo hiểm khi trời mưa gió hoặc trời quá nắng; có thể sử dụng ô, điện thoại di động, thiết bị âm thanh nhưng phải đảm bảo an toàn.",
             "Phải đội mũ bảo hiểm khi cảm thấy mất an toàn giao thông hoặc khi chuẩn bị di chuyển quãng đường xa.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1633,7 +1633,7 @@ const originalQuestions =
             "Là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có dân cư sinh sống sát dọc theo đường, có các hoạt động có thể ảnh hưởng đến giao thông đường bộ và được xác định bằng biển báo là đường qua khu đông dân cư.",
             "Là đoạn đường nằm ngoài khu vực nội thành phố, nội thị xã có đông người và phương tiện tham gia giao thông và được xác định cụ thể bằng biển chỉ dẫn địa giới.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -7880,83 +7880,84 @@ const originalQuestions =
     }
 ]
 // export {originalQuestions}
-let currentQuestion = 0;
-let score = 0;
-const questionQty = document.querySelector(".question__qty");
-const questionTitle = document.querySelector(".question__title");
-const suggestAnswer = document.querySelector(".suggest__answer");
-const answerBtn = document.querySelectorAll(".answer__button");
-const feedbackEl = document.querySelector(".feedback");
-const questionImage = document.querySelector(".question__img");
+// let currentQuestion = 0;
+// let score = 0;
+// const questionQty = document.querySelector(".question__qty");
+// const questionTitle = document.querySelector(".question__title");
+// const suggestAnswer = document.querySelector(".suggest__answer");
+// const answerBtn = document.querySelectorAll(".answer__button");
+// const feedbackEl = document.querySelector(".feedback");
+// const questionImage = document.querySelector(".question__img");
 
-function loadQuestion() {
-    const currentQuiz = originalQuestions[currentQuestion];
-    questionQty.textContent =("câu"+ currentQuiz.no+":")
-    questionTitle.textContent = currentQuiz.text;
-    suggestAnswer.textContent = currentQuiz.tip;
+// function loadQuestion() {
+//     const currentQuiz = originalQuestions[currentQuestion];
+//     questionQty.textContent =("câu"+ currentQuiz.no+":")
+//     questionTitle.textContent = currentQuiz.text;
+//     suggestAnswer.textContent = currentQuiz.tip;
     
-    if (currentQuiz.image === "") {
-        questionImage.disabled = true;
-    } else {
-        const imageLink = currentQuiz.image;
-        questionImage.src =`./assets/img/${imageLink}`
-    }
-    answerBtn.forEach((btn, index) => {
-        btn.textContent = currentQuiz.answers[index];
-        btn.disabled = false;
-        btn.style.backgroundColor = "";
-        if (btn.textContent === "") {
-            btn.textContent = " dang cap nhat"
-        }
-    })
-}
-const nextBtn = document.querySelector(".next");
-const prevBtn = document.querySelector(".prev");
-answerBtn.forEach((btn) => {
-    btn.addEventListener("click", (e) => {
-        const selected = parseInt(e.target.getAttribute("data-index"));
-        const correct = originalQuestions[currentQuestion].correct;
-        const ansTotal = document.querySelector(".ans__total");
-        if (selected === correct) {
-            score++ ;
-            ansTotal.textContent = `Điểm Của Bạn Là: ${score}`;
-            feedbackEl.textContent = "✅ Chính xác!";
-            e.target.style.backgroundColor = "#3766e7";
+//     if (currentQuiz.image === "") {
+//         questionImage.disabled = true;
+//     } else {
+//         const imageLink = currentQuiz.image;
+//         questionImage.src =`./assets/img/${imageLink}`
+//     }
+//     answerBtn.forEach((btn, index) => {
+//         btn.textContent = currentQuiz.answers[index];
+//         btn.disabled = false;
+//         btn.style.backgroundColor = "";
+//         if (btn.textContent === "") {
+//             btn.textContent = " dang cap nhat"
+//         }
+//     })
+// }
+// const nextBtn = document.querySelector(".next");
+// const prevBtn = document.querySelector(".prev");
+// answerBtn.forEach((btn) => {
+//     btn.addEventListener("click", (e) => {
+//         const selected = parseInt(e.target.getAttribute("data-index"));
+//         const correct = originalQuestions[currentQuestion].correct;
+//         const ansTotal = document.querySelector(".ans__total");
+//         if (selected === correct) {
+//             score++ ;
+//             ansTotal.textContent = `Điểm Của Bạn Là: ${score}`;
+//             feedbackEl.textContent = "✅ Chính xác!";
+//             e.target.style.backgroundColor = "#3766e7";
             
-        } else {
-            score--;
-            ansTotal.textContent =`Điểm Của Bạn Là: ${score} ` ;
-            feedbackEl.textContent = `❌ Sai rồi!`;
-            e.target.style.backgroundColor = "tomato";
-        }
-        btn.disabled = true
-    })
-});
-prevBtn.addEventListener("click", () => {
-    currentQuestion--;
-    loadQuestion();
+//         } else {
+//             score--;
+//             ansTotal.textContent =`Điểm Của Bạn Là: ${score} ` ;
+//             feedbackEl.textContent = `❌ Sai rồi!`;
+//             e.target.style.backgroundColor = "tomato";
+//         }
+//         btn.disabled = true
+//     })
+// });
+// prevBtn.addEventListener("click", () => {
+//     currentQuestion--;
+//     loadQuestion();
     
-});
-nextBtn.addEventListener("click", () => {
-  currentQuestion++;
-  if (currentQuestion < originalQuestions.length) {
-    loadQuestion();
-  } else {
-    questionTitle.textContent = `🎉 Bạn đã hoàn thành quiz!`;
-    feedbackEl.textContent = `Điểm của bạn: ${score}/${questionList.length}`;
-    document.querySelector("ul").style.display = "none";
-    nextBtn.style.display = "none";
-    prevBtn.style.display = "none";
-  }
-});
+// });
+// nextBtn.addEventListener("click", () => {
+//   currentQuestion++;
+//   if (currentQuestion < originalQuestions.length) {
+//     loadQuestion();
+//   } else {
+//     questionTitle.textContent = `🎉 Bạn đã hoàn thành quiz!`;
+//     feedbackEl.textContent = `Điểm của bạn: ${score}/${questionList.length}`;
+//     document.querySelector("ul").style.display = "none";
+//     nextBtn.style.display = "none";
+//     prevBtn.style.display = "none";
+//   }
+// });
 
-// chon cau
-const quesBtnList = document.querySelectorAll(".ques__qty--btn");
-quesBtnList.forEach((quesBtn) => {
-    quesBtn.addEventListener("click", function () {
-        currentQuestion = quesBtn.getAttribute("id") - 1;
-        loadQuestion();
-    })
-});
-loadQuestion();
+// // chon cau
+// const quesBtnList = document.querySelectorAll(".ques__qty--btn");
+// quesBtnList.forEach((quesBtn) => {
+//     quesBtn.addEventListener("click", function () {
+//         currentQuestion = quesBtn.getAttribute("id") - 1;
+//         loadQuestion();
+//     })
+// });
+// loadQuestion();
+export { originalQuestions };
 //  da cap nhat toi cau 84
