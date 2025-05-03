@@ -76,3 +76,4 @@ quesBtnList.forEach((quesBtn) => {
     })
 });
 loadQuestion();
+
