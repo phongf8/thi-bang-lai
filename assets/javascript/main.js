@@ -13,12 +13,13 @@ function loadQuestion() {
     questionQty.textContent =("câu"+ currentQuiz.no+":")
     questionTitle.textContent = currentQuiz.text;
     suggestAnswer.textContent = currentQuiz.tip;
+    const imageLink = currentQuiz.image;
     
-    if (currentQuiz.image === "") {
-        questionImage.disabled = true;
+    if (imageLink === "") {
+        questionImage.style.display = "none";
     } else {
-        const imageLink = currentQuiz.image;
-        questionImage.src =`./assets/img/${imageLink}`
+        questionImage.src = `./assets/img/${imageLink}`;
+        questionImage.style.display = "block";
     }
     answerBtn.forEach((btn, index) => {
         btn.textContent = currentQuiz.answers[index];
@@ -76,4 +77,14 @@ quesBtnList.forEach((quesBtn) => {
     })
 });
 loadQuestion();
-
+function removeSelect() {
+    for (let btn of quesBtnList) {
+        btn.classList.remove("select");
+    }
+}
+for (let btn of quesBtnList) {
+    btn.addEventListener("click", function () {
+        removeSelect();
+        btn.classList.add("select")
+    })
+}

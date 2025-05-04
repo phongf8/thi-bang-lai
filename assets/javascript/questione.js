@@ -1646,7 +1646,7 @@ const originalQuestions =
             "40 km/h.",
             "60 km/h.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1659,7 +1659,7 @@ const originalQuestions =
             "50 km/h.",
             "40 km/h.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1672,7 +1672,7 @@ const originalQuestions =
             "50 km/h.",
             "40 km/h.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1685,7 +1685,7 @@ const originalQuestions =
             "Xe gắn máy, xe máy chuyên dùng.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1698,7 +1698,7 @@ const originalQuestions =
             "Xe gắn máy, xe máy chuyên dùng.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1711,7 +1711,7 @@ const originalQuestions =
             "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải đến 3.500 kg",
             "Ô tô buýt, ô tô đầu kéo kéo sơ mi rơ moóc, ô tô chuyên dùng, xe mô tô.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1725,7 +1725,7 @@ const originalQuestions =
             "Ô tô kéo rơ moóc, ô tô kéo xe khác, xe gắn máy.",
             "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải đến 3.500 kg.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1739,7 +1739,7 @@ const originalQuestions =
             "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3.500 kg",
             "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải đến 3.500 kg.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1752,7 +1752,7 @@ const originalQuestions =
             "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3.500 kg.",
             "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ xe buýt), ô tô tải có trọng tải nhỏ hơn hoặc bằng 3.500 kg.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1765,7 +1765,7 @@ const originalQuestions =
             "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3.500 kg.",
             "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ xe buýt), ô tô tải có trọng tải nhỏ hơn hoặc bằng 3.500 kg.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1778,7 +1778,7 @@ const originalQuestions =
             "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3.500 kg (trừ ô tô xi téc).",
             "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ xe buýt), ô tô tải có trọng tải nhỏ hơn hoặc bằng 3.500 kg.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1791,7 +1791,7 @@ const originalQuestions =
             "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3.500 kg.",
             "Ô tô buýt, ô tô đầu kéo kéo sơ mi rơ moóc, xe mô tô, ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông).",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1804,7 +1804,7 @@ const originalQuestions =
             "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3.500 kg.",
             "Ô tô kéo rơ moóc, ô tô kéo xe khác, ô tô trộn vữa, ô tô trộn bê tông, ô tô xi téc.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1817,7 +1817,7 @@ const originalQuestions =
             "55 m.",
             "70 m.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1830,7 +1830,7 @@ const originalQuestions =
             "55 m.",
             "70 m.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1843,7 +1843,7 @@ const originalQuestions =
             "70 m.",
             "100 m.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1856,7 +1856,7 @@ const originalQuestions =
             "Đảm bảo khoảng cách an toàn theo mật độ phương tiện, tình hình giao thông thực tế.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1870,7 +1870,7 @@ const originalQuestions =
             "Gặp biển báo hết mọi lệnh cấm.",
             "Gặp biển báo hết hạn chế tốc độ tối đa cho phép.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1884,7 +1884,7 @@ const originalQuestions =
             "Khi xe sau xin vượt và đảm bảo an toàn.",
             "Khi xe sau có tín hiệu vượt bên phải.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1898,7 +1898,7 @@ const originalQuestions =
             "Phương tiện giao thông đường sắt.",
             "Ô tô, mô tô và xe máy chuyên dùng.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1912,7 +1912,7 @@ const originalQuestions =
             "Còi, chuông kêu, chắn đã đóng.",
             "Tất cả các ý trên.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -1925,7 +1925,7 @@ const originalQuestions =
             "Được phép nhưng phải đảm bảo an toàn.",
             "Được phép tùy từng hoàn cảnh và điều kiện cụ thể.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -1939,7 +1939,7 @@ const originalQuestions =
             "Để giảm thiểu chấn thương vùng đầu.",
             "Để các loại phương tiện khác dễ quan sát.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1952,7 +1952,7 @@ const originalQuestions =
             "Thay đổi tay số của xe trên đường bộ.",
             "Lạng lách, đánh võng trên đường bộ.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1965,7 +1965,7 @@ const originalQuestions =
             "Xe chữa cháy, xe quân sự, xe công an, xe cứu thương, xe hộ đê đi làm nhiệm vụ khẩn cấp có tín hiệu còi, cờ, đèn theo quy định của pháp luật.",
             "Xe ô tô, xe máy, đoàn xe đang diễu hành có tổ chức có báo tín hiệu xin vượt bằng còi và đèn.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -1978,7 +1978,7 @@ const originalQuestions =
             "Giảm tốc độ qua đường giao nhau để đi trước xe đi trên đường ưu tiên.",
             "Nhường đường cho xe đi trên đường ưu tiên từ bất kỳ hướng nào tới.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -1992,7 +1992,7 @@ const originalQuestions =
             "Giảm tốc độ cho xe vượt qua đường sắt trước khi tàu hỏa tới.",
             "Cho xe dừng ngay lại và giữ khoảng cách tối thiểu 5 mét tính từ ray gần nhất.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -2005,7 +2005,7 @@ const originalQuestions =
             "Đi sang làn đường của xe ngược chiều để mở rộng tầm nhìn và vượt xe khác.",
             "Cho xe đi sát bên phải làn đường, bật tín hiệu báo hiệu để vượt bên phải xe khác.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2018,7 +2018,7 @@ const originalQuestions =
             "Giảm tốc độ, có thể dừng lại nếu cần thiết trước vạch dừng xe để nhường đường cho người đi bộ qua đường.",
             "Tăng tốc độ để vượt qua trước người đi bộ.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -2032,7 +2032,7 @@ const originalQuestions =
             "Không được lùi xe.",
             "Bấm còi 3 lần liên tiếp trước khi lùi.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2045,7 +2045,7 @@ const originalQuestions =
             "Khi điều khiển phương tiện đi qua khu vực trạm kiểm soát tải trọng xe, trạm cảnh sát giao thông, trạm giao dịch thanh toán đối với các phương tiện sử dụng đường bộ.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2058,7 +2058,7 @@ const originalQuestions =
             "Người điều khiển phương tiện tham gia giao thông không hạn chế tốc độ và khoảng cách an toàn tối thiểu giữa hai xe vào ban đêm.",
             "Người điều khiển phương tiện tham gia giao thông phải nghiêm chỉnh chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu giữa hai xe.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2071,7 +2071,7 @@ const originalQuestions =
             "Tuân thủ tốc độ tối đa, tốc độ tối thiểu ghi trên biển báo hiệu đường bộ, sơn kẻ mặt đường trên các làn xe chỉ vào ban ngày.",
             "Tuân thủ tốc độ tối đa, tốc độ tối thiểu ghi trên biển báo hiệu đường bộ, sơn kẻ mặt đường trên các làn xe chỉ vào ban đêm.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2085,7 +2085,7 @@ const originalQuestions =
             "Vàng - Xanh dương - Xanh lá.",
             "Đỏ - Cam - Xanh.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2099,7 +2099,7 @@ const originalQuestions =
             "Nhanh chóng tăng tốc độ, vượt qua nút giao và chú ý đảm bảo an toàn.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -2112,7 +2112,7 @@ const originalQuestions =
             "Tăng ga mạnh để gây sự chú ý rồi cho xe vượt qua.",
             "Bạn phải có báo hiệu bằng đèn hoặc còi.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2125,7 +2125,7 @@ const originalQuestions =
             "Không được dừng, đỗ.",
             "Được dừng, đỗ nhưng phải đảm bảo an toàn",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -2138,7 +2138,7 @@ const originalQuestions =
             "Bật đèn tín hiệu khẩn cấp, lập tức đưa xe vào làn đường xe chạy bên phải trong cùng,  đặt biển báo hiệu nguy hiểm để cảnh báo cho các xe khác.",
             "Bật đèn tín hiệu khẩn cấp, khi đủ điều kiện an toàn nhanh chóng đưa xe vào làn dừng đỗ khẩn cấp, đặt biển báo hiệu nguy hiểm để cảnh báo cho các xe khác",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2152,7 +2152,7 @@ const originalQuestions =
             "0,4 mét.",
             "0,5 mét.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2166,7 +2166,7 @@ const originalQuestions =
             "15 mét.",
             "20 mét.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -2179,7 +2179,7 @@ const originalQuestions =
             "Không được phép.",
             "Chỉ được phép dừng, đỗ khi đường vắng.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -2193,7 +2193,7 @@ const originalQuestions =
             "Đường đèo dốc, vòng liên tục",
             "Tất cả các ý nêu trên.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -2206,7 +2206,7 @@ const originalQuestions =
             "Giảm tốc độ đến mức an toàn có thể và quan sát người qua đường và từ từ vượt qua xe buýt.",
             "Yêu cầu phải dừng lại phía sau xe buýt chờ xe rời bến mới đi tiếp.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -2218,7 +2218,7 @@ const originalQuestions =
             "Luôn có ý thức về tính tổ chức, kỷ luật, thực hiện nghiêm biểu đồ xe chạy được phân công; thực hiện đúng hành trình, lịch trình, đón trả khách đúng nơi quy định; giúp đỡ hành khách khi đi xe, đặc biệt là những người khuyết tật, người già, trẻ em và phụ nữ có thai, có con nhỏ.",
             "Luôn có ý thức về tính tổ chức, kỷ luật, thực hiện linh hoạt biểu đồ xe chạy được phân công để tiết kiệm chi phí; thực hiện đúng hành trình, lịch trình khi có khách đi xe, đón trả khách ở những nơi thuận tiện cho hành khách đi xe.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2231,7 +2231,7 @@ const originalQuestions =
             "Vận chuyển động vật hoang dã nhưng thực hiện đủ các quy định có liên quan.",
             "Vận chuyển hàng cấm lưu thông; vận chuyển trái phép hàng nguy hiểm, động vật hoang dã.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2245,7 +2245,7 @@ const originalQuestions =
             "Đe dọa, xúc phạm, tranh giành, lôi kéo hành khách; bắt ép hành khách sử dụng dịch vụ ngoài ý muốn; xuống khách nhằm trốn tránh phát hiện xe chở quá số người quy định.",
             "Tất cả các ý trên.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2259,7 +2259,7 @@ const originalQuestions =
             "Không quá 8 giờ.",
             "Liên tục tùy thuộc vào sức khỏe và khả năng của người lái xe.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2273,7 +2273,7 @@ const originalQuestions =
             "Không quá 12 giờ.",
             "Không hạn chế tùy thuộc vào sức khỏe và khả năng của người lái xe.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -2287,7 +2287,7 @@ const originalQuestions =
             "Chở hành khách trên mui; đề hàng hóa trong khoang chở khách, chở quá số người theo quy định.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -2301,7 +2301,7 @@ const originalQuestions =
             "Đón trả khách tại vị trí do khách hàng yêu cầu.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
@@ -2314,7 +2314,7 @@ const originalQuestions =
             "Từ chối vận chuyển trước khi phương tiện rời bến, rời vị trí đón trả khách theo hợp đồng vận chuyển những người đã có vé hoặc người trong danh sách hợp đồng có hành vi gây rối trật tự công cộng, gây cản trở công việc kinh doanh vận tải, ảnh hưởng đến sức khỏe, tài sản của người khác, gian lận vé hoặc hành khách đang bị dịch bệnh nguy hiểm.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -2326,7 +2326,7 @@ const originalQuestions =
             "Được vận chuyển theo đúng hợp đồng vận tải, cam kết của người kinh doanh về chất lượng vận tải; được miễn cước hành lý với trọng lượng không quá 20kg và với kích thước phù hợp với thiết kế của xe; được từ chối chuyến đi trước khi phương tiện khởi hành và được trả lại tiền vé theo quy định của Bộ Giao thông vận tải.",
             "Được vận chuyển theo hợp đồng vận tải, cam kết của người kinh doanh về vận tải; được miễn cước hành lý với trọng lượng không quá 50 kg và với kích thước không quá cồng kềnh; được từ chối chuyến đi trước khi phương tiện khởi hành và được trả lại tiền vé.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2339,7 +2339,7 @@ const originalQuestions =
             "Được mang theo hành lý, hàng hóa mà pháp luật cấm lưu thông khi đã trả cước, phí vận tải.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2352,7 +2352,7 @@ const originalQuestions =
             "Yêu cầu xếp hàng hóa vận chuyển trên xe vượt quá chiều cao quy định nhưng phải được chằng buộc chắc chắn.",
             "Yêu cầu xếp hàng hóa vượt tải trọng 10%.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2365,7 +2365,7 @@ const originalQuestions =
             "Bồi thường thiệt hại cho người thuê vận tải do mất mát, hư hỏng hàng hóa xảy ra trong quá trình vận tải từ lúc nhận hàng đến lúc giao hàng; bồi thường thiệt hại do người làm công, người đại diện gây ra trong khi thực hiện công việc được người kinh doanh vận tải giao; chịu trách nhiệm về hậu quả mà người làm công, người đại diện gây ra do thực hiện yêu cầu của người kinh doanh vận tải trái với quy định của pháp luật.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -2377,7 +2377,7 @@ const originalQuestions =
             "Từ chối xếp hàng lên phương tiện mà phương tiện đó không đúng thỏa thuận trong hợp đồng; yêu cầu người kinh doanh vận tải giao hàng đúng thời gian, địa điểm đã thỏa thuận trong hợp đồng; yêu cầu người kinh doanh vận tải bồi thường thiệt hại theo quy định của pháp luật.",
             "Từ chối xếp hàng hóa lên phương tiện khi thấy phương tiện đó không phù hợp với yêu cầu; yêu cầu người kinh doanh vận tải giao hàng trước thời hạn đã thỏa thuận trong hợp đồng; yêu cầu người kinh doanh vận tải bồi thường thiệt hại khi người kinh doanh vận tải gây thiệt hại.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2390,7 +2390,7 @@ const originalQuestions =
             "Chuẩn bị đầy đủ các giấy tờ hợp pháp về phương tiện vận chuyển hàng hoá và giao cho người lái xe; xếp hàng hóa lên phương tiện vận chuyển đảm bảo an toàn; giao hàng hóa cho người nhận hàng đúng thời gian, địa điểm.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2403,7 +2403,7 @@ const originalQuestions =
             "Yêu cầu hoặc thông báo cho người thuê vận tải để yêu cầu người lái xe bồi thường thiệt hại do mất mát, hư hỏng hàng hóa; nhận hàng hóa không theo giấy vận chuyển hoặc chứng từ tương đương khác.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2416,7 +2416,7 @@ const originalQuestions =
             "Xuất trình giấy vận chuyển và giấy tờ tùy thân cho người kinh doanh vận tải trước khi nhận hàng hóa; thanh toán chi phí phát sinh do nhận hàng chậm.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2429,7 +2429,7 @@ const originalQuestions =
             "Là hàng có kích thước hoặc trọng lượng vượt quá giới hạn quy định nhưng có thể tháo rời.",
             "Là hàng có kích thước hoặc trọng lượng vượt quá giới hạn quy định nhưng không thể tháo rời ra được.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2442,7 +2442,7 @@ const originalQuestions =
             "Người thuê vận tải chịu trách nhiệm về việc xếp dỡ động vật sống theo hướng dẫn của người kinh doanh vận tải; trường hợp người thuê vận tải không thực hiện được thì phải trả cước, phí xếp, dỡ cho người kinh doanh vận tải.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2455,7 +2455,7 @@ const originalQuestions =
             "Phải được chuyên chở trên xe chuyên dùng để vận chuyển hàng nguy hiểm; xe vận chuyển hàng nguy hiểm phải chạy liên tục không được dừng, đỗ trong quá trình vận chuyển.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2467,7 +2467,7 @@ const originalQuestions =
             "Người lái xe buýt phải chạy đúng tuyến, đúng lịch trình và dừng đỗ đúng nơi quy định; người lái xe chở hàng phải hoạt động đúng tuyến, phạm vi và thời gian quy định đối với từng loại xe.",
             "Người lái xe buýt, xe chở hàng đón, trả khách, hàng hóa theo thỏa thuận giữa hành khách, chủ hàng và người lái xe.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
@@ -2480,10 +2480,10 @@ const originalQuestions =
             "Khi vận chuyển hàng rời phải che đậy, không để rơi vãi.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
-        "image": "q188.png",
+        "image": "q188",
         "no": 188,
         "index": 188,
         "text": "Những ký hiệu hàng hóa dưới đây, ký hiệu nào chống mưa?",
@@ -2493,10 +2493,10 @@ const originalQuestions =
             "Hình 2.",
             "Hình 3.",
         ],
-        "correct":""
+        "correct":2
     },
     {
-        "image": "q189.png",
+        "image": "q189.webp",
         "no": 189,
         "index": 189,
         "text": "Ký hiệu chuyên dùng nào biểu hiện hàng chuyên chở phải tránh ánh nắng mặt trời?",
@@ -2505,10 +2505,10 @@ const originalQuestions =
             "Hình 1.",
             "Hình 2.",
         ],
-        "correct":""
+        "correct":1
     },
     {
-        "image": "q190.png",
+        "image": "q190.webp",
         "no": 190,
         "index": 190,
         "text": "Hình nào dưới đây biểu hiện hàng chuyên chở dễ vỡ phải cẩn thận?",
@@ -2517,10 +2517,10 @@ const originalQuestions =
             "Hình 1",
             "Hình 2",
         ],
-        "correct":""
+        "correct":1
     },
     {
-        "image": "q191.png",
+        "image": "q191.webp",
         "no": 191,
         "index": 191,
         "text": "Hình nào dưới đây đòi hỏi hàng phải xếp theo hướng thẳng đứng?",
@@ -2530,10 +2530,10 @@ const originalQuestions =
             "Hình 2.",
             "Hình 3.",
         ],
-        "correct":""
+        "correct":3
     },
     {
-        "image": "q192.png",
+        "image": "q192.webp",
         "no": 192,
         "index": 192,
         "text": "Hình nào dưới đây biểu hiện hàng chuyên chở là chất lỏng?",
@@ -2542,20 +2542,20 @@ const originalQuestions =
             "Hình 1.",
             "Hình 2.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
         "no": 193,
         "index": 193,
         "text": "Người hành nghề lái xe khi thực hiện tốt việc rèn luyện, nâng cao trách nhiệm, đạo đức nghề nghiệp sẽ thu được kết quả như thế nào?",
-        "tip": "",
+        "tip": "Giải thích: Người hành nghề lái xe khi thực hiện tốt việc rèn luyện, nâng cao trách nhiệm và đạo đức nghề nghiệp sẽ được khách hàng, xã hội tôn trọng; được đồng nghiệp quý mến và giúp đỡ; được doanh nghiệp tin dùng và đóng góp nhiều cho xã hội. Đồng thời, điều này cũng thu hút khách hàng, góp phần quan trọng trong xây dựng thương hiệu và kinh doanh có hiệu quả cao.",
         "answers": [
             "Được khách hàng, xã hội tôn trọng; được đồng nghiệp quý mến, giúp đỡ; được doanh nghiệp tin dùng và đóng góp nhiều cho xã hội.",
             "Thu hút được khách hàng, góp phần quan trọng trong xây dựng thương hiệu, kinh doanh có hiệu quả cao.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
@@ -2567,60 +2567,60 @@ const originalQuestions =
             "Thực hiện nghiêm chỉnh những nội dung hợp đồng giữa chủ phương tiện với chủ hàng trong việc vận chuyển và bảo quản hàng hóa trong quá trình vận chuyển; không chở hàng cấm, không xếp hàng quá trọng tải của xe, quá trọng tải cho phép của cầu, đường; khi vận chuyển hàng quá khổ, quá tải, hàng nguy hiểm, hàng siêu trường, siêu trọng phải có giấy phép.",
             "Thực hiện nghiêm chỉnh những nội dung hợp đồng giữa chủ hàng với khách hàng trong việc vận chuyển và bảo quản hàng hóa trong quá trình vận chuyển; trong trường hợp cần thiết có thể xếp hàng quá trọng tải của xe, quá trọng tải cho phép của cầu theo yêu cầu của chủ hàng; khi vận chuyển hàng quá khổ, quá tải, hàng nguy hiểm, hàng siêu trường, siêu trọng phải được chủ hàng cho phép.",
         ],
-        "correct":""
+        "correct":1
     },
     {
         "image": "",
         "no": 195,
         "index": 195,
         "text": "Người lái xe kinh doanh vận tải cần thực hiện những công việc gì ghi ở dưới đây để thường xuyên rèn luyện nâng cao đạo đức nghề nghiệp?",
-        "tip": "",
+        "tip": "Người lái xe kinh doanh vận tải cần thực hiện cả hai ý để nâng cao đạo đức nghề nghiệp. Họ cần yêu quý, quản lý và sử dụng xe tốt, bảo dưỡng xe đúng định kỳ, thực hành tiết kiệm vật tư và nhiên liệu. Đồng thời, họ phải nắm vững và chấp hành các quy định của pháp luật, lái xe an toàn, coi hành khách như người thân và là đối tác tin cậy, có ý thức tổ chức kỷ luật và tinh thần hợp tác, tương trợ đồng nghiệp.",
         "answers": [
             "Phải yêu quý xe, quản lý và sử dụng xe tốt; bảo dưỡng xe đúng định kỳ; thực hành tiết kiệm vật tư, nhiên liệu; luôn tu dưỡng bản thân, có lối sống lành mạnh, tác phong làm việc công nghiệp.",
             "Nắm vững các quy định của pháp luật, tự giác chấp hành pháp luật, lái xe an toàn; coi hành khách như người thân, là đối tác tin cậy; có ý thức tổ chức kỷ luật và xây dựng doanh nghiệp vững mạnh; có tinh thần hợp tác, tương trợ, giúp đỡ đồng nghiệp.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
         "no": 196,
         "index": 196,
         "text": "Người lái xe và nhân viên phục vụ trên xe ô tô vận tải hành khách phải có những trách nhiệm gì theo quy định được ghi ở dưới đây?",
-        "tip": "",
+        "tip": "Người lái xe và nhân viên phục vụ trên ô tô vận tải hành khách phải kiểm tra các điều kiện bảo đảm an toàn của xe trước khi khởi hành, có thái độ văn minh, lịch sự, hướng dẫn hành khách ngồi đúng nơi quy định và kiểm tra việc sắp xếp, chằng buộc hành lý để đảm bảo an toàn. Đồng thời, họ phải có biện pháp bảo vệ tính mạng, sức khỏe, tài sản của hành khách, giữ gìn trật tự và vệ sinh trong xe, và đảm bảo cửa lên xuống của xe được đóng trước và trong khi xe chạy.",
         "answers": [
             "Kiểm tra các điều kiện bảo đảm an toàn của xe sau khi khởi hành; có trách nhiệm lái xe thật nhanh khi chậm giờ của khách.",
             "Kiểm tra các điều kiện bảo đảm an toàn của xe trước khi khởi hành; có thái độ văn minh, lịch sự, hướng dẫn hành khách ngồi đúng nơi quy định; kiểm tra việc sắp xếp, chằng buộc hành lý, bảo đảm an toàn.",
             "Có biện pháp bảo vệ tính mạng, sức khỏe, tài sản của hành khách đi xe, giữ gìn trật tự, vệ sinh trong xe; đóng cửa lên xuống của xe trước và trong khi xe chạy.",
             "Cả ý 2 và ý 3.",
         ],
-        "correct":""
+        "correct":4
     },
     {
         "image": "",
         "no": 197,
         "index": 197,
         "text": "Khái niệm về văn hóa giao thông được hiểu như thế nào là đúng?",
-        "tip": "",
+        "tip": "hái niệm về văn hóa giao thông bao gồm cả sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông, ý thức trách nhiệm với cộng đồng khi tham gia giao thông, và ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông.",
         "answers": [
             "Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông; là ý thức trách nhiệm với cộng đồng khi tham gia giao thông.",
             "Là ứng xử có văn hóa, có tình yêu thương con người trong các tình huống không may xảy ra khi tham gia giao thông.",
             "Cả ý 1 và ý 2.",
         ],
-        "correct":""
+        "correct":3
     },
     {
         "image": "",
         "no": 198,
         "index": 198,
         "text": "Trên làn đường dành cho ô tô có vũng nước lớn, có nhiều người đi xe mô tô trên làn đường bên cạnh, người lái xe ô tô xử lý như thế nào là có văn hóa giao thông?",
-        "tip": "",
+        "tip": "Người lái xe ô tô cần giảm tốc độ và cho xe chạy chậm qua vũng nước để tránh làm bắn nước vào những người đi xe mô tô bên cạnh, thể hiện ý thức và văn hóa giao thông.",
         "answers": [
             "Cho xe chạy thật nhanh qua vũng nước.",
             "Giảm tốc độ cho xe chạy chậm qua vũng nước.",
             "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -2633,19 +2633,19 @@ const originalQuestions =
             "Là thiếu văn hóa giao thông.",
             "Là có văn hóa giao thông.",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
         "no": 200,
         "index": 200,
         "text": "Khi sơ cứu người bị tai nạn giao thông đường bộ, có vết thương chảy máu ngoài, màu đỏ tươi phun thành tia và phun mạnh khi mạch đập, bạn phải làm gì?",
-        "tip": "",
+        "tip": "Khi sơ cứu người bị tai nạn giao thông với vết thương chảy máu ngoài, màu đỏ tươi phun thành tia và phun mạnh khi mạch đập, cần thực hiện cầm máu không trực tiếp (chặn động mạch) để ngăn chặn dòng máu lưu thông và giảm nguy cơ mất máu nghiêm trọng.",
         "answers": [
             "Thực hiện cầm máu trực tiếp.",
             "Thực hiện cầm máu không trực tiếp (chặn động mạch).",
         ],
-        "correct":""
+        "correct":2
     },
     {
         "image": "",
@@ -7960,4 +7960,4 @@ const originalQuestions =
 // });
 // loadQuestion();
 export { originalQuestions };
-//  da cap nhat toi cau 84
+//  da cap nhat toi cau 200
